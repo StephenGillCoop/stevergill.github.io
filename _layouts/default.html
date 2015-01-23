@@ -8,7 +8,9 @@
     {% include sidebar.html %}
 
     <div class="content container">
-      {{ content }}
+      {% for post in site.posts %}
+      <a class="" href="{{ post.url }}">{{ post.date }}: {{ post.title }}</a>
+      {% endfor %}
     </div>
 
   </body>
