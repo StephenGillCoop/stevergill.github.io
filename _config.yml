@@ -28,9 +28,13 @@ kramdown:
 # Site owner
 owner:
   name: Steve Gill
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  avatar: stevegill.jpeg
+  bio: "Describe your self. Describe your self.Describe your self.Describe your self.Describe your self.
+  Describe your self.Describe your self.Describe your self.Describe your self.
+
+  Describe your self.Describe your self.Describe your self.Describe your self.Describe your self.Describe your self.
+  Describe your self.Describe your self.Describe your self.Describe your self.Describe your self."
+  email: stevergill@remove-this.gmail.com
   disqus-shortname: stevergill
   twitter: stevergill #username
   facebook: stevergill #username
