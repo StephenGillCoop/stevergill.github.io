@@ -3,7 +3,8 @@
 title:            Steve Gills Blog
 locale:           en_US
 url:              
-
+page:
+  comments: true
 
 # Jekyll configuration
 
