@@ -9,7 +9,9 @@
 
     <div class="content container">
       {% for post in site.posts %}
-      <a class="" href="{{ post.url }}">{{ post.date }}: {{ post.title }}</a>
+      <div>
+        <a class="" href="{{ post.url }}">{{ post.title }}</a>
+      </div>
       {% endfor %}
     </div>
 
