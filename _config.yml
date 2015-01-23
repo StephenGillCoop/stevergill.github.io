@@ -30,9 +30,9 @@ owner:
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  disqus-shortname: stevergill
+  twitter: stevergill #username
+  facebook: stevergill #username
   google:
     plus: #username
     analytics: 
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: stevergill #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
