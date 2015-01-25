@@ -6,7 +6,7 @@ modified: 2015-01-14
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 image:
-  feature: buachaille-river-etive2.jpg
+  feature: Dollarphotoclub_60937927.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
