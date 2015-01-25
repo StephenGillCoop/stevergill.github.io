@@ -1,0 +1,67 @@
+/* Make the avatar more twitter like than round */
+.article-author-side .bio-photo {
+  border-radius: 8px;
+}
+
+/* Make the bio paragraph full width of its container. */
+.article-author-side h3, .article-author-side .bio-photo, .article-author-side p, .article-author-side .author-social {
+  max-width: 100%;
+}
+
+/* Move the avatar up like twitter */
+.bio-photo {
+  margin-top: -80px;
+  z-index: 10000;
+  position: relative;
+  border-width: 1px;
+  border-color: grey;
+  border-style: solid;
+}
+
+/* Make the text below a h3 appear closer to it than the text above */
+h3 {
+  margin-bottom: .5em;
+  margin-top: 50px;
+  border-bottom: #c4c4c4;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  padding-bottom: 10px;
+}
+
+/* Make the text below a h4 appear closer to it than the text above */
+h4 {
+  margin-bottom: 0px;
+  //margin-top: 50px;
+}
+
+/* change the blockquote to grey */
+blockquote {
+  color: grey;
+  border-left-width: 8px;
+  border-left-style: solid;
+  border-left-color: grey;
+}
+
+/* make the list of blog posts easier to read - closer together */
+#index article h2 {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+#index h3 {
+  margin-bottom: 20px;
+}
+
+#main h1 {
+  //margin-bottom: 4px;
+}
+
+.post-date {
+  margin-bottom: 20px;
+  font-style: italic;
+  color: grey;
+}
+
+.small-margin-bottom {
+  margin-bottom: 4px !important;
+}

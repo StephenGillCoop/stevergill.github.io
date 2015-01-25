@@ -3,8 +3,11 @@
 - title: About Me
   url: /about/
 
-- title: Posts
+- title: Blog Posts
   url: /posts/
 
-- title: Books
+- title: Books I've read
   url: /books/
+
+- title: Blogs I follow
+  url: /blogs/

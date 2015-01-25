@@ -16,6 +16,7 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+excerpt_separator: ""   # Workaround for http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed
 
 kramdown:
   auto_ids: true
@@ -29,25 +30,23 @@ kramdown:
 owner:
   name: Steve Gill
   avatar: stevegill.jpeg
-  bio: "Describe your self. Describe your self.Describe your self.Describe your self.Describe your self.
-  Describe your self.Describe your self.Describe your self.Describe your self.
-
-  Describe your self.Describe your self.Describe your self.Describe your self.Describe your self.Describe your self.
-  Describe your self.Describe your self.Describe your self.Describe your self.Describe your self."
+  bio: "Serial entrepeneur specialising in building business web apps, with over 20 years experience.
+  Mainly involved in financial and grocery epos solutions. I design and lead the development of solutions I
+  invest in. Strong believer in BDD and DDD."
   email: stevergill@remove-this.gmail.com
   disqus-shortname: stevergill
   twitter: stevergill #username
   facebook: stevergill #username
   google:
-    plus: #username
-    analytics: 
+    plus: StephenGill1 #username
+    analytics: UA-50426501-2
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
   github: stevergill #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: stevergill
   instagram: #username
   lastfm: #username
   tumblr: #username
