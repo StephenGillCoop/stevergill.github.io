@@ -39,7 +39,7 @@ I've added links to each section below, in case you want to jump to a particular
 - [Hillwalking](#hillwalking)
 - [Photography](#photography)
 - [Trading](#trading)
-- [Driving](#driving)
+- [Driving](/about/cars/)
 
 ### Edinburgh, Scotland
 <img src="/images/edinburgh.jpg">

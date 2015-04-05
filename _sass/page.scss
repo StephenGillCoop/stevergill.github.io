@@ -287,6 +287,8 @@ $button-size: 1.5rem;
 .image-wrap {
 	position: relative;
 	margin-bottom: 2em;
+  margin-left: 16%;
+  margin-right: 20%;
 	@include clearfix;
 	&:after {
 		content: " ";
@@ -310,6 +312,7 @@ $button-size: 1.5rem;
 	}
 	img {
 		width: 100%;
+        max-width: 2000px;
 		height: auto;
 		-ms-interpolation-mode: bicubic;
 	}
